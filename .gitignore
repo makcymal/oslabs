@@ -1,0 +1,6 @@
+.vscode/
+.build
+.cmake
+*[Cc][Mm]ake*
+!CMakeLists.txt
+
